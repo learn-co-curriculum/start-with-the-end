@@ -14,4 +14,4 @@ etc.
 And check out the actual [Fwitter project with requirements for more guidance.](https://github.com/learn-co-curriculum/sinatra-fwitter-group-project)
 
 Now that you have your final project, let’s think about your course as a map that guides your students to this project. 
-<a href='https://learn.co/lessons/start-with-the-end' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/start-with-the-end' title='If you're designing a full track or a topic from scratch, think of what you want your student to accomplish. '>If you're designing a full track or a topic from scratch, think of what you want your student to accomplish. </a> on Learn.co and start learning to code for free.</p>
