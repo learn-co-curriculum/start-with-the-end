@@ -4,7 +4,7 @@ What is the final project that they will be working on at the very end of your c
 
 Map out your final project.  Write an overview. List the requirements and what students should be expected to do to build it. 
 
-In this final projects, students will be able to:
+In this final project, students will be able to:
 1.
 2.
 3.
@@ -15,3 +15,5 @@ And check out the actual [Fwitter project with requirements for more guidance.](
 
 Now that you have your final project, let’s think about your course as a map that guides your students to this project. 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/start-with-the-end' title='If you're designing a full track or a topic from scratch, think of what you want your student to accomplish. '>If you're designing a full track or a topic from scratch, think of what you want your student to accomplish. </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/start-with-the-end'>Start with the End </a> on Learn.co and start learning to code for free.</p>
